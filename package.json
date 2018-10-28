@@ -1,0 +1,23 @@
+{
+  "name": "command-line-survival",
+  "version": "1.0.0",
+  "description": "Terminal-based, turn-by-turn, survival game.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaney83/command-line-survival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaney83/command-line-survival/issues"
+  },
+  "homepage": "https://github.com/blaney83/command-line-survival#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
